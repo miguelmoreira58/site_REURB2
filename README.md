@@ -20,12 +20,8 @@ Este projeto busca **simplificar o entendimento sobre o tema**, utilizando lingu
 
 ## 🛠️ Tecnologias Utilizadas
 
-O projeto poderá utilizar tecnologias como:
+O projeto poderá utiliza tecnologias como:
 
 - HTML  
 - CSS  
-- JavaScript  
-
-Outras ferramentas poderão ser adicionadas conforme o desenvolvimento do site.
-
-## 📂 Estrutura do Repositório
+- JavaScript
